@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/8dee635eea874f0e8d76c74237810fbd/artifacts
+end_time: 1711476290472
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: 8dee635eea874f0e8d76c74237810fbd
+run_name: grandiose-fawn-497
+run_uuid: 8dee635eea874f0e8d76c74237810fbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711476151320
+status: 3
+tags: []
+user_id: angad

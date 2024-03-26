@@ -1,0 +1,1 @@
+{'classifier__n_estimators': 200, 'tfidf__max_features': 3000}

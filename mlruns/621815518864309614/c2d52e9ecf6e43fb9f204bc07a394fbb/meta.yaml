@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/c2d52e9ecf6e43fb9f204bc07a394fbb/artifacts
+end_time: 1711476150114
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: c2d52e9ecf6e43fb9f204bc07a394fbb
+run_name: big-worm-892
+run_uuid: c2d52e9ecf6e43fb9f204bc07a394fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711476139489
+status: 3
+tags: []
+user_id: angad

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/fe0d4cd81b0847f4bf697fc4e353c8f9/artifacts
+end_time: 1711476575859
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: fe0d4cd81b0847f4bf697fc4e353c8f9
+run_name: resilient-sponge-72
+run_uuid: fe0d4cd81b0847f4bf697fc4e353c8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711476575778
+status: 3
+tags: []
+user_id: angad

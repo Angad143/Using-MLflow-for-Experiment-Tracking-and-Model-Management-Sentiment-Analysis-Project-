@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/fb17124eb06d4605b30cfeeb85328c07/artifacts
+end_time: 1711476138216
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: fb17124eb06d4605b30cfeeb85328c07
+run_name: capable-donkey-336
+run_uuid: fb17124eb06d4605b30cfeeb85328c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711476039011
+status: 3
+tags: []
+user_id: angad

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/8b2dc89c1f144bde9a7e859faa2b4cc6/artifacts
+end_time: 1711476037312
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: 8b2dc89c1f144bde9a7e859faa2b4cc6
+run_name: intelligent-frog-956
+run_uuid: 8b2dc89c1f144bde9a7e859faa2b4cc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711475999176
+status: 3
+tags: []
+user_id: angad

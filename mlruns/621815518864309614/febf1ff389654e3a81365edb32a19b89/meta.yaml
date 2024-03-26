@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/febf1ff389654e3a81365edb32a19b89/artifacts
+end_time: 1711476037312
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: febf1ff389654e3a81365edb32a19b89
+run_name: thundering-conch-627
+run_uuid: febf1ff389654e3a81365edb32a19b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711475999176
+status: 3
+tags: []
+user_id: angad

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711478463829
+current_stage: Production
+description: ''
+last_updated_timestamp: 1711480962079
+name: Sentiment_Analysis_of_Flipkart_Product_Reviews_Experimentations
+run_id: 3189287136c04594809bc1f24e36ea07
+run_link: ''
+source: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/3189287136c04594809bc1f24e36ea07/artifacts/best_estimator
+status: READY
+status_message: null
+storage_location: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/3189287136c04594809bc1f24e36ea07/artifacts/best_estimator
+user_id: null
+version: 3

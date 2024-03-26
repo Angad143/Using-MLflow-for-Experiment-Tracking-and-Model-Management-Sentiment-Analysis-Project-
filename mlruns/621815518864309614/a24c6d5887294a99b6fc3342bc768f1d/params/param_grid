@@ -1,0 +1,1 @@
+[{'tfidf__max_features': [1000, 2000, 3000], 'classifier__kernel': ['rbf'], 'classifier__C': [0.1, 1, 10]}, {'tfidf__max_features': [1000, 2000, 3000], 'classifier__kernel': ['linear'], 'classifier__C': [0.1, 1, 10]}]

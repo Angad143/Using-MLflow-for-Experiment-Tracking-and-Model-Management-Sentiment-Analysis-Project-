@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Innomatic%20Research%20Lab%20%28Internship%20Data%20Scientists%29/Project/Using%20MLflow%20for%20Experiment%20Tracking%20and%20Model%20Management%20%28Sentiment%20Analysis%20Project%29/mlruns/621815518864309614/80d71d67743d4f3e906269aa0bd39f68/artifacts
+end_time: 1711476037312
+entry_point_name: ''
+experiment_id: '621815518864309614'
+lifecycle_stage: active
+run_id: 80d71d67743d4f3e906269aa0bd39f68
+run_name: merciful-crane-67
+run_uuid: 80d71d67743d4f3e906269aa0bd39f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711475999176
+status: 3
+tags: []
+user_id: angad
